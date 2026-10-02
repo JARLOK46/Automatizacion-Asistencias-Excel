@@ -1,0 +1,22 @@
+# Runtime and generated metadata
+.atl/
+.codegraph/
+.pytest_cache/
+odd/
+tests/
+__pycache__/
+
+# Attendance runtime data
+attendance.db
+attendance.log
+backups/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*~
+.DS_Store
+
+# Keep the workbook template publishable
+!Listado ejemplo.xlsx
